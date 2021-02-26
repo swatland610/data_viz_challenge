@@ -1,4 +1,4 @@
-# Welcome to the Data Viz Break-Out Group @ Chi Hack Night
+# Data Viz Break-Out Group @ [Chi Hack Night](https://chihacknight.org/)
 ## Working Group to Sharpen your Data Visualization Skills
 
 ### About the Group
