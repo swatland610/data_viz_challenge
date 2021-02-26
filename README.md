@@ -1,6 +1,8 @@
 # Data Viz Break-Out Group @ [Chi Hack Night](https://chihacknight.org/)
 ## Working Group to Sharpen your Data Visualization Skills
 
+*ADD A COUPLE OF DATA VIZ MAPS OF CHI TOWN*
+
 ### About the Group
 Each month, we will investigate 1 dataset from [Chicago's Open Data Portal](https://data.cityofchicago.org/) -_a collection of publicly available datasets about Chicago provided by the City of Chicago itself_.  During each meeting, we will explore / clean data, pull out any interesting insights, practice communicating your findings through your own data visualizations and share them with others.
 
