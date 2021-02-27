@@ -14,7 +14,7 @@ There are not many, but just a few to keep us focused on working and learning to
 
 1. Make sure you're adhering to Chi Hack Night's [Code of Conduct](https://chihacknight.org/code-of-conduct.html#:~:text=Chi%20Hack%20Night%20is%20dedicated,nationality%2C%20age%2C%20or%20religion.) as it will help us keep a great working and learning space for all.
 
-2. Your analysis / visualizations should use our [featured dataset](#This-Month's-Dataset:) in some form. If you find another dataset you want to join or compare it with, go for it! Just make sure you can at least demonstrate how you used our monthly data set.
+2. Your analysis / visualizations should use our [featured dataset](###-This-Month's-Dataset:) in some form. If you find another dataset you want to join or compare it with, go for it! Just make sure you can at least demonstrate how you used our monthly data set.
 
 3. If you are trying to replicate a visualization that you found somewhere, please sure to give credit to the original owner _(or at least the website where you found it)_. Since this is a learning / working group, replicating can be a great way to learn. But please be sure to give credit to the original owner or source of inspiration. _Example: If you store your analysis / viz on your own Github repo, make sure you give credit to your source directly in your code. If you're not sure the best way to do this, reach out to Sean!_
 
