@@ -1,8 +1,6 @@
 # Data Viz Break-Out Group @ [Chi Hack Night](https://chihacknight.org/)
 ## Working Group to Sharpen your Data Visualization Skills
 
-*What do you wanna know?*  [This Month's Data](#This-Month's-Dataset)   |   [About the Group](#About-the-Group)   |   [Group Rules](#Group-Rules)   |   [Do I need to be a coder](#Do-I-Need-to-Know-How-to-Code-to-Join)
-
 ###This Month's Dataset
 ###*[City of Chicago - 2021 Budget Appropriations](https://data.cityofchicago.org/Administration-Finance/Budget-2021-Budget-Ordinance-Appropriations/6tbx-h7y2)*
 
