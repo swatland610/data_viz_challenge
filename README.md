@@ -11,6 +11,8 @@ Every year, like most cities, the City of Chicago publishes their Budget for the
 This is not meant to be an exhaustive list, just a place to start exploring.
 * [City of Chicago - 2020 Budget Appropriations](https://data.cityofchicago.org/Administration-Finance/Budget-2020-Budget-Ordinance-Appropriations/fyin-2vyd) -> There's data for at least 10 years back in case you want to explore trends over time.
 
+* [2021 Budget Survey Results](https://data.cityofchicago.org/Administration-Finance/Budget-Survey-2021/h6r6-h5c9) -> Large Dataset. Results from Survey used to collect public opinion on Budget Considerations for 2021. Can be grouped by Zip Code. 
+
 * [City of Chicago - Finance Payments to Vendors](https://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb) -> Pretty large dataset. It's a daily log of payments to Vendors from 1996. The data won't line up perfectly, but you would likely be able to group this data by what department this payment was for and compare it to the Budget data.
 
 ### About the Group
