@@ -2,20 +2,17 @@
 ## Working Group to Sharpen your Data Visualization Skills
 
 ### This Month's Dataset
-### **[City of Chicago - 2021 Budget Appropriations](https://data.cityofchicago.org/Administration-Finance/Budget-2021-Budget-Ordinance-Appropriations/6tbx-h7y2)**
+### **[Cook County SAO Felony Intakes](https://datacatalog.cookcountyil.gov/Courts/Intake/3k7z-hchi)**
 
 #### Quick Description
-Every year, like most cities, the City of Chicago publishes their Budget for the current Fiscal Year. In this dataset, the budgeted amount is the field `2021 Ordinance (Amount #)`. From there, we can group the budgeted amounts by: `Fund`, `Department`, `Appropriation Authority (Service within Department)`, and `Appropriation Account (Budget Account within that Department)`.  
+The intake data presented in this data reflects the cases brought in for review. Each row represents a potential defendant in a case.  
 
 #### Related Data to Explore
-This is not meant to be an exhaustive list, just a place to start exploring.
-* [City of Chicago - 2020 Budget Appropriations](https://data.cityofchicago.org/Administration-Finance/Budget-2020-Budget-Ordinance-Appropriations/fyin-2vyd) -> There's data for at least 10 years back in case you want to explore trends over time.
+The CCSAO shares much of their data via the Cook County Data Portal. There is plenty of Related Data that can be found at this [link](https://datacatalog.cookcountyil.gov/browse?category=Courts). 
 
-* [2021 Budget Survey Results](https://data.cityofchicago.org/Administration-Finance/Budget-Survey-2021/h6r6-h5c9) -> Large Dataset. Results from Survey used to collect public opinion on Budget Considerations for 2021. Can be grouped by Zip Code.
+Before diving into the datasets, I'd familarize yourself with this helpful flowchart ~_provided by the CCSAO's office directly_. 
 
-* [City of Chicago - Finance Payments to Vendors](https://data.cityofchicago.org/Administration-Finance/Payments/s4vu-giwb) -> Pretty large dataset. It's a daily log of payments to Vendors from 1996. The data won't line up perfectly, but you would likely be able to group this data by what department this payment was for and compare it to the Budget data.
-
-* [Chicago Budgets from 2011-2021](https://docs.google.com/spreadsheets/d/1n7esTiRfZhgwirQXlKAP72VJze3jtB6A5VyMc0hLqy4/edit#gid=0) -> I assembled Chicago budgets from the past 10 years for my own project. Feel free to use it if it would be helpful for yours! You can follow how I extracted it on my [chicago-budget-analysis](https://github.com/swatland610/chicago-budget-analysis) repo. 
+![](ccsao_open_data_flowchart.png)
 
 ### About the Group
 Each month, we will investigate 1 dataset from [Chicago's Open Data Portal](https://data.cityofchicago.org/) -_a collection of publicly available datasets about Chicago provided by the City of Chicago itself_.  During each meeting, we will explore / clean data, pull out any interesting insights, practice communicating your findings through your own data visualizations and share them with others.
