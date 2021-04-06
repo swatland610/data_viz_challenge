@@ -5,7 +5,7 @@ install.packages('tidyverse') # this will install the tidyverse package if not a
 library('tidyverse') # this then loads the tidyverse and accompanying packages
 
 # set url variable to csv data on GitHub
-url <- "https://raw.githubusercontent.com/swatland610/data_viz_challenge/main/data/2021_chicago_budget_appropriations.csv"
+url <- "https://raw.githubusercontent.com/swatland610/data_viz_challenge/main/data/ccsao_intake.csv"
 
 # read data into a dataframe
 df <- read_csv(url)
@@ -14,5 +14,5 @@ df <- read_csv(url)
 df %>% names()
 
 # a quick visualization that shows amount budgeted to each department
-df %>% ggplot(aes(x = `DEPARTMENT NUMBER`, y = `2021 ORDINANCE (AMOUNT $)`)) +
-  geom_bar(stat = "identity", na.rm = TRUE)
+#df %>% ggplot(aes(x = `DEPARTMENT NUMBER`, y = `2021 ORDINANCE (AMOUNT $)`)) +
+#  geom_bar(stat = "identity", na.rm = TRUE)
